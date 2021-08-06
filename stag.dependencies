@@ -4,5 +4,11 @@
     "target_path": "vendor/oppo",
     "remote": "github",
     "branch": "lineage-18.1"
+  },
+  {
+    "repository": "techyminati/android_packages_apps_RealmeDirac",
+    "target_path": "packages/apps/RealmeDirac",
+    "remote": "github",
+    "branch": "master"
   }
 ]
